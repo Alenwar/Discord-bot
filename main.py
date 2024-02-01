@@ -4,7 +4,7 @@ import discord
 import random
 from discord.ext import commands
 
-API_KEY ="..."
+API_KEY ="YOUR IP"
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)
